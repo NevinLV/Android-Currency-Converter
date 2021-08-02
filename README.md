@@ -6,5 +6,5 @@ Stack:
 - kotlin-coroutines
 - Gson
 
-![alt text](Screenshot 1.jpg "Список валют и их курс")​
-![alt text](Screenshot 2.jpg "Конвертация выбранной валюты в рубли")​
+![alt text](Screenshot1.jpg "Список валют и их курс")​
+![alt text](Screenshot2.jpg "Конвертация выбранной валюты в рубли")​
