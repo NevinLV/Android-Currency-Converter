@@ -2,7 +2,7 @@
 Android application for converting currencies into rubles according to the Central Bank of the Russian Federation 
 
 Stack:
-    Kotlin
-    kotlin-coroutines
-    Gson
+- Kotlin
+- kotlin-coroutines
+- Gson
     
